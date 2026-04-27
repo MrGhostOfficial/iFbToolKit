@@ -64,11 +64,11 @@ python2 ifbtoolkit.py
 ```
 # [ Screenshot ]
 
-<img src=![Screenshot_image](https://github.com/MrGhostOfficial/Allin1Images/blob/master/iFbToolKit1.jpg)
+<img src=![Screenshot](https://github.com/MrGhostOfficial/Allin1Images/blob/master/iFbToolKit1.jpg)
 
-img src=![Screenshot_image](https://github.com/MrGhostOfficial/Allin1Images/blob/master/iFbToolKit2.jpg)
+img src=![Screenshot](https://github.com/MrGhostOfficial/Allin1Images/blob/master/iFbToolKit2.jpg)
 
-img src=![Screenshot_image](https://github.com/MrGhostOfficial/Allin1Images/blob/master/iFbToolKit3.jpg)
+img src=![Screenshot](https://github.com/MrGhostOfficial/Allin1Images/blob/master/iFbToolKit3.jpg)
 
 [[INFO](https://t.me/NetCyberCoder)] if you are facing any issues then Contact me telegram. And don't forget to Follow GitHub, Hope you Like it Enjoy.👾
 
