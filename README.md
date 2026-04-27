@@ -75,4 +75,4 @@ img src=![Screenshot](https://github.com/MrGhostOfficial/Admin.Network/blob/mast
 # [License & copyright]
 ![IMG-Copyright-2023](https://github.com/MrGhostOfficial/Admin.Network/blob/master/License_copyright.jpg)
 © [MrGhostOfficial](https://github.com/MrGhostOfficial), Algonquin College Graphic Design, Don't Copy My Script Or i Give You  Copyright Claim
-Licensed under the [[MIT License](https://github.com/MrGhostOfficial/T-Advice-installer/blob/master/LICENSE)] (LICENSE).
+Licensed under the [[MIT License](https://github.com/MrGhostOfficial/TermuxElevated/blob/master/LICENSE)] (LICENSE).
